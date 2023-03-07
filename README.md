@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Darshan Jain</h1>
 <h3 align="center">Great at Data Structures, Algo and Development</h3>
-<img align="right" width="250" alt="coding" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
+<img align="center" width="250" alt="coding" src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darshanjain-entrepreneur" alt="darshanjain-entrepreneur" /></a> </p>
 
